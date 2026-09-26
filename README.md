@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> ·
+  <strong>English</strong> ·
   <a href="README.es.md">Español</a> ·
   <a href="README.ca.md">Català</a>
 </p>
@@ -8,8 +8,11 @@
 <h3 align="center">I build websites, create games, and experiment with technology.</h3>
 
 - I'm currently working on my <a href="https://janiito.com/en">website</a>
-- All of my projects are available on my <a href="https://janiito.com/en/projects">projects page</a>
-- I regularly write articles on my <a href="https://janiito.com/en/blog">blog</a>
+
+- All of my projects are available on my <a href="https://janiito.com/projects">projects page</a>
+
+- I regularly write articles on my <a href="https://janiito.com/blog">blog</a>
+
 - How to reach me <strong>jan@janiito.com</strong>
 
 <h3 align="left">Connect with me:</h3>
@@ -51,6 +54,6 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/kenangdkjain/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
   </a>
 </p>
