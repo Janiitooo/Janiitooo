@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Jan</h1>
 <h3 align="center">I build websites, create games, and experiment with technology.</h3>
 
-- I’m currently working on my web janiito.com
+- I’m currently working on my web https://janiito.com
 
-- All of my projects are available at janiito.com/projects
+- All of my projects are available at https://janiito.com/projects
 
-- I regularly write articles on janiito.com/blog
+- I regularly write articles on https://janiito.com/blog
 
 - How to reach me **jan@janiito.com**
 
