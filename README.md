@@ -3,7 +3,7 @@
 
 - I’m currently working on my web janiito.com
 
-- All of my projects are available at janiito.com
+- All of my projects are available at janiito.com/projects
 
 - I regularly write articles on janiito.com/blog
 
