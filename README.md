@@ -1,7 +1,13 @@
+<p align="center">
+  <a href="README.md">English</a> ·
+  <a href="README.es.md">Español</a> ·
+  <a href="README.ca.md">Català</a>
+</p>
+
 <h1 align="center">Hi, I'm Jan</h1>
 <h3 align="center">I build websites, create games, and experiment with technology.</h3>
 
-- I’m currently working on my web https://janiito.com/en
+- I’m currently working on my [web](https://janiito.com/en)
 
 - All of my projects are available at https://janiito.com/projects
 
