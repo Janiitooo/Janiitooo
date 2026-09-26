@@ -15,7 +15,7 @@
 
 - How to reach me <strong>jan@janiito.com</strong>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 
 <p align="left">
   <a href="https://www.youtube.com/@janiitooo" target="_blank" rel="noreferrer">
