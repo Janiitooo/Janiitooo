@@ -8,8 +8,8 @@
 <h3 align="center">I build websites, create games, and experiment with technology.</h3>
 
 - I'm currently working on my <a href="https://janiito.com/en">website</a>
-- All of my projects are available on my <a href="https://janiito.com/projects">projects page</a>
-- I regularly write articles on my <a href="https://janiito.com/blog">blog</a>
+- All of my projects are available on my <a href="https://janiito.com/en/projects">projects page</a>
+- I regularly write articles on my <a href="https://janiito.com/en/blog">blog</a>
 - How to reach me <strong>jan@janiito.com</strong>
 
 <h3 align="left">Connect with me:</h3>
