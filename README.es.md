@@ -19,10 +19,10 @@
 
 <p align="left">
   <a href="https://www.youtube.com/@janiitooo" target="_blank" rel="noreferrer">
-    <img align="center" src="https://janiito.com/assets/images/brands/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img align="center" src="https://janiito.com/assets/images/social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://twitch.tv/janiitooo" target="_blank" rel="noreferrer">
-    <img align="center" src="https://janiito.com/assets/images/brands/twitch.svg" alt="Twitch" height="30" width="40" />
+    <img align="center" src="https://janiito.com/assets/images/social/twitch.svg" alt="Twitch" height="30" width="40" />
   </a>
 </p>
 
