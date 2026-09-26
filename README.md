@@ -9,9 +9,9 @@
 
 - I’m currently working on my [web](https://janiito.com/en)
 
-- All of my projects are available at https://janiito.com/projects
+- All of my projects are available at [projects](https://janiito.com/projects)
 
-- I regularly write articles on https://janiito.com/blog
+- I regularly write articles on [blogs](https://janiito.com/blog)
 
 - How to reach me **jan@janiito.com**
 
