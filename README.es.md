@@ -15,7 +15,7 @@
 
 - Puedes contactarme en <strong>jan@janiito.com</strong>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Redes Sociales:</h3>
 
 <p align="left">
   <a href="https://www.youtube.com/@janiitooo" target="_blank" rel="noreferrer">
