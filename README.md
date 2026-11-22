@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Jan</h1>
-<h3 align="center">I build websites, create games, and experiment with technology.</h3>
+<h3 align="center">I create websites, games, and digital experiences.</h3>
 
 - I'm currently working on my <a href="https://janiito.com/en">website</a>
 
