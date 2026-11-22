@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hola, soc en Jan</h1>
-<h3 align="center">Creo llocs web, desenvolupo jocs i experimento amb la tecnologia.</h3>
+<h3 align="center">Creo páginas web, videojuegos y experiencias digitales.</h3>
 
 - Actualment estic treballant en el meu <a href="https://janiito.com/ca">lloc web</a>
 
